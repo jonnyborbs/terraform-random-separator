@@ -2,6 +2,6 @@ variable "organization" {
   type = string
 }
 
-variable "length-source-workspace" {
+variable "length-workspace" {
   type = string
 }
